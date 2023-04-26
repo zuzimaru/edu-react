@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/edu-react/static/css/main.7acaea2f.css",
+    "main.js": "/edu-react/static/js/main.c5467db2.js",
+    "index.html": "/edu-react/index.html",
+    "main.7acaea2f.css.map": "/edu-react/static/css/main.7acaea2f.css.map",
+    "main.c5467db2.js.map": "/edu-react/static/js/main.c5467db2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.c5467db2.js"
+  ]
+}
